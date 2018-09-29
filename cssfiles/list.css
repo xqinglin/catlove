@@ -1,0 +1,12 @@
+.userProfile{
+    
+    height: 500px;
+    width: auto;
+}
+.profile{
+    border: solid;
+}
+.greet{
+    text-align: center;
+    border: 30px;
+}
